@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 17 18:09:24 2022
 @Purpose: Running simulations
-@Author: mal27
+@Author: Marcus
 """
 
 """ Items
